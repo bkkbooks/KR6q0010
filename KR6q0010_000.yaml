@@ -1,0 +1,17 @@
+canonical_identifier: bkk:krp/KR6q0010/x/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 嘉泰普燈錄
+  edition:
+    short: x
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/X/X79/X79n1559.xml
+    old_id: X79n1559
+hash: sha256:fd812af68cdbd11ac836df5041fe80f6e4d7dd22efbdc042a6fa4a533e823153
